@@ -1,6 +1,9 @@
 ## Hola, soy Nahuel :wave:
 
-Actualmente me encuentro cursando la carrera de Técnico en Desarrollo de Aplicaciones Informáticas en la Facultad de Ciencias Exactas (TUDAI). Aqui podras encontrar tanto ejercicios realizados, como trabajos especiales realizados para distintas materias.
+Actualmente me encuentro cursando la carrera de Técnico en Desarrollo de Aplicaciones Informáticas en la Facultad de Ciencias Exactas (TUDAI). Aqui podras encontrar tanto ejercicios realizados, como trabajos especiales realizados para distintas materias. (ES)
+
+I'm currently studying Computer Application Development at the Faculty of Exact Sciences (TUDAI). Here you can find completed exercises and special projects for various subjects. (EN)
+
 
 #### 🔧 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
